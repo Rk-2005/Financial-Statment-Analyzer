@@ -1,0 +1,7 @@
+﻿43613ee chore: remove finbert_finetuned from tracking
+de66473 Added new data to training data and applied lstm model
+9d6e41c chore: add packages.txt and fix requirements.txt formatting for Streamlit Cloud deployment
+6b5e90b feat(app): add line-level sentiment evidence with confidence threshold
+647b832 merging with branch ritesh
+7a2125a Add Streamlit dashboard and trained SGD model
+d01bc1b feat: implement embedding models and FinBERT for financial sentiment analysis
