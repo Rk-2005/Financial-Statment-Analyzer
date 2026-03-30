@@ -32,7 +32,7 @@ nest-asyncio==1.6.0
 nltk==3.9.3
 numpy==2.4.3
 packaging==26.0
-pandas==3.0.1
+pandas==2.2.3
 parso==0.8.6
 pillow==12.1.1
 platformdirs==4.9.4
@@ -64,7 +64,7 @@ urllib3==2.6.3
 wcwidth==0.6.0
 
 # App dependencies (Streamlit + OCR)
-streamlit
-altair<5
+streamlit==1.55.0
+altair>=5,<7
 pytesseract
 pdf2image
